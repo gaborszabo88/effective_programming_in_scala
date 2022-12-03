@@ -1,0 +1,22 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(submit gszab88@gmail.com fVkLqq12O0ySTAgG, Some(0d49efa4-6d14-4c44-8e48-245f95a4cf82), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: submit[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/gabor/git_repos/effective_programming_in_scala/democracy/target/scala-3.2.1/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mAttempting to submit "democracy" assignment in "effective-scala" course[0m
+[0m[[0m[0minfo[0m] [0m[0mUsing:[0m
+[0m[[0m[0minfo[0m] [0m[0m- email: gszab88@gmail.com[0m
+[0m[[0m[0minfo[0m] [0m[0m- submit token: fVkLqq12O0ySTAgG[0m
+[0m[[0m[0minfo[0m] [0m[0mConnecting to Coursera...[0m
+[0m[[0m[0minfo[0m] [0m[0mSuccessfully connected to Coursera. (Status 201)[0m
+[0m[[0m[0minfo[0m] [0m[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mAssignment submitted successfully![0m
+[0m[[0m[0minfo[0m] [0m[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mYou can see how you scored by going to:[0m
+[0m[[0m[0minfo[0m] [0m[0mhttps://www.coursera.org/learn/effective-scala/programming/vujw6/[0m
+[0m[[0m[0minfo[0m] [0m[0mor (for premium learners):[0m
+[0m[[0m[0minfo[0m] [0m[0mhttps://www.coursera.org/learn/effective-scala/programming/Y3zSS[0m
+[0m[[0m[0minfo[0m] [0m[0m                       [0m
+[0m[[0m[0minfo[0m] [0m[0mand clicking on "My Submission".[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 6 s, completed Nov 14, 2022, 12:14:26 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m

@@ -1,0 +1,408 @@
+2022.11.11 10:40:46 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/gabor/git_repos/effective_programming_in_scala/week_2/.metals/lsp.trace.json or /home/gabor/.cache/metals/lsp.trace.json
+2022.11.11 10:40:46 INFO  logging to file /home/gabor/git_repos/effective_programming_in_scala/week_2/.metals/metals.log
+2022.11.11 10:40:46 INFO  Started: Metals version 0.11.9 in workspace '/home/gabor/git_repos/effective_programming_in_scala/week_2' for client Visual Studio Code 1.71.2.
+2022.11.11 10:40:47 INFO  time: initialize in 1.24s
+2022.11.11 10:40:49 WARN  Build server is not auto-connectable.
+2022.11.11 10:40:49 WARN  no build target for: /home/gabor/git_repos/effective_programming_in_scala/week_2/build.sbt
+2022.11.11 10:40:52 INFO  no build target found for /home/gabor/git_repos/effective_programming_in_scala/week_2/build.sbt. Using presentation compiler with project's scala-library version: 3.2.0
+2022.11.11 10:40:53 INFO  time: code lens generation in 3.54s
+2022.11.11 10:41:04 INFO  no build target found for /home/gabor/git_repos/effective_programming_in_scala/week_2/src/main/scala/org/epfl/02_addressbook/addressbook.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.0
+2022.11.11 10:41:04 INFO  time: evaluated worksheet 'addressbook.worksheet.sc' in 9.13s
+2022.11.11 10:42:57 WARN  no build target for: /home/gabor/git_repos/effective_programming_in_scala/week_2/build.sbt
+2022.11.11 10:43:02 WARN  no build target for: /home/gabor/git_repos/effective_programming_in_scala/week_2/build.sbt
+2022.11.11 10:43:10 INFO  shutting down Metals
+2022.11.11 10:43:22 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/gabor/git_repos/effective_programming_in_scala/week_2/.metals/lsp.trace.json or /home/gabor/.cache/metals/lsp.trace.json
+2022.11.11 10:43:22 INFO  logging to file /home/gabor/git_repos/effective_programming_in_scala/week_2/.metals/metals.log
+2022.11.11 10:43:22 INFO  Started: Metals version 0.11.9 in workspace '/home/gabor/git_repos/effective_programming_in_scala/week_2' for client Visual Studio Code 1.71.2.
+2022.11.11 10:43:24 INFO  time: initialize in 1.45s
+2022.11.11 10:43:25 WARN  Build server is not auto-connectable.
+2022.11.11 10:43:26 INFO  skipping build import with status 'Dismissed'
+2022.11.11 10:43:29 INFO  no build target found for /home/gabor/git_repos/effective_programming_in_scala/week_2/src/main/scala/org/epfl/02_addressbook/addressbook.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.0
+2022.11.11 10:43:32 INFO  time: code lens generation in 5.68s
+2022.11.11 10:43:35 INFO  no build target found for /home/gabor/git_repos/effective_programming_in_scala/week_2/src/main/scala/org/epfl/02_addressbook/addressbook.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.0
+2022.11.11 10:43:35 INFO  time: evaluated worksheet 'addressbook.worksheet.sc' in 9.38s
+2022.11.11 10:43:42 INFO  running '/usr/lib/jvm/java-11-openjdk-amd64/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals16585511988943344496/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.11.11 10:43:42 WARN  no build target for: /home/gabor/git_repos/effective_programming_in_scala/week_2/project/project/metals.sbt
+2022.11.11 10:43:42 WARN  no build target for: /home/gabor/git_repos/effective_programming_in_scala/week_2/project/metals.sbt
+2022.11.11 10:43:42 INFO  skipping build import with status 'Dismissed'
+2022.11.11 10:43:43 INFO  [info] welcome to sbt 1.5.0-RC2 (Ubuntu Java 11.0.17)
+2022.11.11 10:43:46 INFO  [info] loading settings for project week_2-build-build from metals.sbt ...
+2022.11.11 10:43:46 INFO  [info] loading project definition from /home/gabor/git_repos/effective_programming_in_scala/week_2/project/project
+2022.11.11 10:43:49 INFO  [info] loading settings for project week_2-build from metals.sbt ...
+2022.11.11 10:43:49 INFO  [info] loading project definition from /home/gabor/git_repos/effective_programming_in_scala/week_2/project
+2022.11.11 10:43:52 INFO  [success] Generated .bloop/week_2-build.json
+2022.11.11 10:43:52 INFO  [success] Total time: 2 s, completed Nov 11, 2022, 10:43:52 AM
+2022.11.11 10:43:53 INFO  [info] loading settings for project week_2 from build.sbt ...
+2022.11.11 10:43:53 INFO  [info] set current project to week_2 (in build file:/home/gabor/git_repos/effective_programming_in_scala/week_2/)
+2022.11.11 10:43:54 INFO  [success] Generated .bloop/week_2-test.json
+2022.11.11 10:43:54 INFO  [success] Generated .bloop/week_2.json
+2022.11.11 10:43:54 INFO  [success] Total time: 1 s, completed Nov 11, 2022, 10:43:54 AM
+2022.11.11 10:43:55 INFO  time: ran 'sbt bloopInstall' in 12s
+2022.11.11 10:43:55 INFO  Attempting to connect to the build server...
+2022.11.11 10:43:55 INFO  Bloop uses /usr/lib/jvm/java-11-openjdk-amd64 defined at /home/gabor/.bloop/bloop.json
+2022.11.11 10:43:55 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/gabor/git_repos/effective_programming_in_scala/week_2/.metals/bsp.trace.json or /home/gabor/.cache/metals/bsp.trace.json
+2022.11.11 10:43:55 INFO  Attempting to connect to the build server...
+2022.11.11 10:43:55 INFO  Bloop uses /usr/lib/jvm/java-11-openjdk-amd64 defined at /home/gabor/.bloop/bloop.json
+2022.11.11 10:43:55 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/gabor/git_repos/effective_programming_in_scala/week_2/project/.metals/bsp.trace.json or /home/gabor/.cache/metals/bsp.trace.json
+2022.11.11 10:43:55 INFO  time: Connected to build server in 0.37s
+2022.11.11 10:43:55 INFO  Connected to Build server: Bloop v1.5.4
+2022.11.11 10:43:55 INFO  time: Imported build in 0.12s
+2022.11.11 10:43:57 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2022.11.11 10:44:01 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2022.11.11 10:44:01 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2022.11.11 10:44:01 INFO  time: indexed workspace in 5.18s
+2022.11.11 10:44:01 INFO  compiling week_2 (2 scala sources)
+2022.11.11 10:44:05 INFO  time: code lens generation in 1.72s
+2022.11.11 10:44:08 INFO  time: compiled week_2 in 6.48s
+2022.11.11 10:44:14 INFO  time: evaluated worksheet 'addressbook.worksheet.sc' in 6.71s
+2022.11.11 10:44:16 INFO  time: evaluated worksheet 'addressbook.worksheet.sc' in 1.26s
+2022.11.11 10:54:49 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/gabor/git_repos/effective_programming_in_scala/week_2/.metals/dap-server.trace.json or /home/gabor/.cache/metals/dap-server.trace.json
+2022.11.11 10:54:49 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/gabor/git_repos/effective_programming_in_scala/week_2/.metals/dap-client.trace.json or /home/gabor/.cache/metals/dap-client.trace.json
+2022.11.11 10:54:50 INFO  Starting debug proxy for [org.epfl.sierpinski.collections]
+2022.11.11 10:54:51 INFO  Trying to attach to remote debuggee VM localhost:54613 .
+2022.11.11 10:54:51 INFO  Attaching to debuggee VM succeeded.
+2022.11.11 10:54:57 INFO  Canceling debug proxy for [org.epfl.sierpinski.collections]
+2022.11.11 10:54:57 INFO  Closing debug server tcp://0.0.0.0:42083
+2022.11.11 10:55:10 INFO  time: evaluated worksheet 'addressbook.worksheet.sc' in 1.75s
+2022.11.11 10:56:16 INFO  time: evaluated worksheet 'addressbook.worksheet.sc' in 1.47s
+2022.11.11 11:42:07 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 2.96s
+2022.11.11 11:42:34 INFO  time: evaluated worksheet 'collections.worksheet.sc' in 3.59s
+2022.11.11 11:43:19 INFO  time: evaluated worksheet 'collections.worksheet.sc' in 1.52s
+2022.11.11 11:43:27 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.76s
+2022.11.11 11:44:30 INFO  time: evaluated worksheet 'collections.worksheet.sc' in 1.52s
+2022.11.11 11:44:36 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.67s
+2022.11.11 11:44:51 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.69s
+2022.11.11 11:45:37 INFO  time: evaluated worksheet 'collections.worksheet.sc' in 1.19s
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:39:52: 
+Found:    String
+Required: Int
+def bar(x: String, y: Int)(f: Int => Int): Int = f(x + 2) + f(y)
+                                                   ^^^^^
+2022.11.11 11:45:38 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.46s
+2022.11.11 11:46:17 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.7s
+[31merror[39m: 
+folding.worksheet.sc:80 (mdoc generated code) 
+ value foldleft is not a member of Map[String, Int] - did you mean ages.foldLeft?
+      ages.foldleft(0)(bar)
+
+
+2022.11.11 11:46:38 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.33s
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:41:18: 
+Found:    (Int, String, Int) => Matchable
+Required: (Matchable, (String, Int)) => Matchable
+ages.foldLeft(0)(bar)
+                 ^^^
+2022.11.11 11:47:07 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.47s
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:39:17: identifier expected but ( found
+def bar(a: Int, (k: String, v: Int))(f: Int => Int): Int = acc + y
+                ^
+2022.11.11 11:50:51 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.28s
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:39:49: 
+Not found: acc
+def bar(a: Int, t: Tuple)(f: Int => Int): Int = acc + y
+                                                ^^^
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:41:18: 
+Found:    (Int, Tuple) => Matchable
+Required: (Matchable, (String, Int)) => Matchable
+ages.foldLeft(0)(bar)
+                 ^^^
+2022.11.11 11:51:27 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.31s
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:39:53: 
+parameter t does not take parameters
+def bar(a: Int, t: Tuple)(f: Int => Int): Int = a + t(1)
+                                                    ^
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:41:18: 
+Found:    (Int, Tuple) => Matchable
+Required: (Matchable, (String, Int)) => Matchable
+ages.foldLeft(0)(bar)
+                 ^^^
+2022.11.11 11:51:47 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.26s
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:28:11: 
+None of the overloaded alternatives of method apply in object Tuple with types
+ [T](x: T): T *: EmptyTuple
+ (): EmptyTuple
+match arguments ((1 : Int), (2 : Int))
+val hsg = Tuple(1, 2)
+          ^^^^^
+2022.11.11 11:52:42 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.34s
+2022.11.11 11:53:10 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.53s
+2022.11.11 11:53:17 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.53s
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:41:53: 
+parameter t does not take parameters
+def bar(a: Int, t: Tuple)(f: Int => Int): Int = a + t(1)
+                                                    ^
+2022.11.11 11:53:55 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.27s
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:42:8: 
+Found:    (String, Int)
+Required: String
+bar(0, "1" -> 2)
+       ^^^^^^^^
+2022.11.11 11:57:49 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.28s
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:41:17: identifier expected but ( found
+def bar(a: Int, (k: String, v: Int))(f: Int => Int): Int = a + v
+                ^
+2022.11.11 12:00:05 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.28s
+2022.11.11 12:01:00 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.54s
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:46:18: 
+Found:    (Int, (String, Int)) => Matchable
+Required: (Matchable, (String, Int)) => Matchable
+ages.foldLeft(0)(bar)
+                 ^^^
+2022.11.11 12:01:56 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.28s
+2022.11.11 12:03:02 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.51s
+Nov 11, 2022 12:10:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:88)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:97)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:49)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:49)
+
+Nov 11, 2022 12:10:06 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:88)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:97)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:49)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:49)
+
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:42:8: 
+t cannot be used as an extractor in a pattern because it lacks an unapply or unapplySeq method
+  case t(k, v) => a + v
+       ^
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:42:19: 
+Not found: a
+  case t(k, v) => a + v
+                  ^
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:43:13: 
+Not found: a
+  case _ => a
+            ^
+2022.11.11 12:10:36 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.35s
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:42:8: 
+t cannot be used as an extractor in a pattern because it lacks an unapply or unapplySeq method
+  case t(k, v) => a + v
+       ^
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:42:19: 
+Not found: a
+  case t(k, v) => a + v
+                  ^
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:43:13: 
+Not found: a
+  case _ => a
+            ^
+2022.11.11 12:10:54 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.36s
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:42:8: 
+t cannot be used as an extractor in a pattern because it lacks an unapply or unapplySeq method
+  case t(k, v) => a + v
+       ^
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:42:23: 
+Not found: v
+  case t(k, v) => a + v
+                      ^
+2022.11.11 12:11:03 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.26s
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:41:35: = expected but ) found
+def bar(a: Int, k: String, v: Int)): Int = t match
+                                  ^
+2022.11.11 12:11:50 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.23s
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:41:43: 
+Not found: t
+def bar(a: Int, k: String, v: Int): Int = t match
+                                          ^
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:42:9: 
+Java defined class String is not a value
+  case (String, Int) => a + v
+        ^^^^^^
+2022.11.11 12:11:57 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.22s
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:41:43: 
+Not found: t
+def bar(a: Int, k: String, v: Int): Int = t match
+                                          ^
+2022.11.11 12:12:20 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.25s
+[33mwarning[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:43:8: 
+Unreachable case except for null (if this is intentional, consider writing case null => instead).
+  case _ => a
+       ^
+2022.11.11 12:12:37 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.47s
+[33mwarning[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:43:8: 
+Unreachable case except for null (if this is intentional, consider writing case null => instead).
+  case _ => a
+       ^
+2022.11.11 12:12:43 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.51s
+Nov 11, 2022 12:13:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1648
+2022.11.11 12:13:07 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.57s
+Nov 11, 2022 12:13:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1664
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:46:18: 
+Found:    (Int, String, Int) => Int
+Required: (Int, (String, Int)) => Int
+ages.foldLeft(0)(bar)
+                 ^^^
+2022.11.11 12:13:29 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.26s
+Nov 11, 2022 12:13:45 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider$.isForComprehensionOwner$1(PcDocumentHighlightProvider.scala:163)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider$.collectNames$1(PcDocumentHighlightProvider.scala:178)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider$.$anonfun$4(PcDocumentHighlightProvider.scala:275)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1663)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1529)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1531)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1548)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1663)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1568)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1663)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1617)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1663)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1529)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1531)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1624)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1663)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1621)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1663)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1529)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1531)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1630)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1535)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1663)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider$.highlights(PcDocumentHighlightProvider.scala:276)
+
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:41:17: identifier expected but ( found
+def bar(a: Int, (k: String, v: Int)): Int = (k, v) match
+                ^
+2022.11.11 12:13:48 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.19s
+2022.11.11 12:17:49 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.6s
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:45:18: 
+Found:    (Int, (String, Int)) => Matchable
+Required: (Matchable, (String, Int)) => Matchable
+ages.foldLeft(0)(bar)
+                 ^^^
+2022.11.11 12:18:32 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.37s
+[31merror[39m: src/main/scala/org/epfl/04_folding/folding.worksheet.sc:45:18: 
+Found:    (Int, (String, Int)) => Matchable
+Required: (Matchable, (String, Int)) => Matchable
+ages.foldLeft(0)(bar)
+                 ^^^
+2022.11.11 12:18:44 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.34s
+2022.11.11 12:19:37 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.52s
+2022.11.11 12:20:04 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.57s
+2022.11.11 12:20:08 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.55s
+2022.11.11 17:00:35 INFO  time: code lens generation in 2.97s
+2022.11.11 17:00:35 INFO  time: code lens generation in 1.84s
+2022.11.11 17:00:38 INFO  time: evaluated worksheet 'folding.worksheet.sc' in 0.64s
+2022.11.11 17:56:46 INFO  time: evaluated worksheet 'addressbook.worksheet.sc' in 0.62s
+[33mwarning[39m: src/main/scala/org/epfl/03_addressbook/addressbook.worksheet.sc:78:1: 
+match may not be exhaustive.
+
+It would fail on pattern case: List(MdocApp.Contact(_, _, _, _), MdocApp.Contact(_, _, _, _), _, _*), List(MdocApp.Contact(_, _, _, _))
+
+addressBook.contacts match
+^^^^^^^^^^^^^^^^^^^^
+2022.11.11 18:04:44 INFO  time: evaluated worksheet 'addressbook.worksheet.sc' in 2.22s
+2022.11.11 18:04:56 INFO  time: evaluated worksheet 'addressbook.worksheet.sc' in 0.57s
+[33mwarning[39m: src/main/scala/org/epfl/03_addressbook/addressbook.worksheet.sc:78:1: 
+match may not be exhaustive.
+
+It would fail on pattern case: List(MdocApp.Contact(_, _, _, _), MdocApp.Contact(_, _, _, _), _, _*), List(MdocApp.Contact(_, _, _, _))
+
+addressBook.contacts match
+^^^^^^^^^^^^^^^^^^^^
+2022.11.11 18:04:57 INFO  time: evaluated worksheet 'addressbook.worksheet.sc' in 0.86s
+2022.11.11 18:10:12 INFO  time: evaluated worksheet 'addressbook.worksheet.sc' in 0.66s
+2022.11.11 18:21:36 INFO  time: evaluated worksheet 'collections.worksheet.sc' in 0.96s
+Exception in thread "pool-13-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-13-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+java.util.concurrent.RejectedExecutionException: Task Future(<not completed>) rejected from java.util.concurrent.ThreadPoolExecutor@54662460[Shutting down, pool size = 2, active threads = 2, queued tasks = 0, completed tasks = 28596]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2055)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:825)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1355)
+	at scala.concurrent.impl.ExecutionContextImpl.execute(ExecutionContextImpl.scala:21)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:429)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:504)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+java.util.concurrent.RejectedExecutionException: Task Future(<not completed>) rejected from java.util.concurrent.ThreadPoolExecutor@54662460[Shutting down, pool size = 2, active threads = 2, queued tasks = 0, completed tasks = 28596]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2055)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:825)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1355)
+	at scala.concurrent.impl.ExecutionContextImpl.execute(ExecutionContextImpl.scala:21)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:429)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:504)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022.11.14 09:34:30 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/gabor/git_repos/effective_programming_in_scala/week_2/.metals/lsp.trace.json or /home/gabor/.cache/metals/lsp.trace.json
+2022.11.14 09:34:31 INFO  logging to file /home/gabor/git_repos/effective_programming_in_scala/week_2/.metals/metals.log
+2022.11.14 09:34:31 INFO  Started: Metals version 0.11.9 in workspace '/home/gabor/git_repos/effective_programming_in_scala/week_2' for client Visual Studio Code 1.71.2.
+2022.11.14 09:34:33 INFO  time: initialize in 2.42s
+2022.11.14 09:34:36 INFO  Attempting to connect to the build server...
+2022.11.14 09:34:36 INFO  Bloop uses /usr/lib/jvm/java-11-openjdk-amd64 defined at /home/gabor/.bloop/bloop.json
+2022.11.14 09:34:36 INFO  skipping build import with status 'Installed'
+2022.11.14 09:34:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/gabor/git_repos/effective_programming_in_scala/week_2/.metals/bsp.trace.json or /home/gabor/.cache/metals/bsp.trace.json
+2022.11.14 09:34:44 INFO  Attempting to connect to the build server...
+2022.11.14 09:34:44 INFO  Bloop uses /usr/lib/jvm/java-11-openjdk-amd64 defined at /home/gabor/.bloop/bloop.json
+2022.11.14 09:34:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/gabor/git_repos/effective_programming_in_scala/week_2/project/.metals/bsp.trace.json or /home/gabor/.cache/metals/bsp.trace.json
+2022.11.14 09:34:44 INFO  time: Connected to build server in 8.05s
+2022.11.14 09:34:44 INFO  Connected to Build server: Bloop v1.5.4
+2022.11.14 09:34:46 INFO  no build target found for /home/gabor/git_repos/effective_programming_in_scala/week_2/src/main/scala/org/epfl/04_collections/collections.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.0
+2022.11.14 09:34:46 INFO  time: code lens generation in 8.51s
+2022.11.14 09:34:46 INFO  time: Imported build in 0.28s
+2022.11.14 09:34:48 INFO  no build target found for /home/gabor/git_repos/effective_programming_in_scala/week_2/src/main/scala/org/epfl/04_collections/collections.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.0
+2022.11.14 09:34:52 INFO  time: code lens generation in 6.63s
+2022.11.14 09:34:55 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2022.11.14 09:34:55 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2022.11.14 09:34:55 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2022.11.14 09:34:55 INFO  time: indexed workspace in 9.35s
+2022.11.14 09:35:05 INFO  time: code lens generation in 1.41s
+2022.11.14 09:35:09 INFO  time: evaluated worksheet 'collections.worksheet.sc' in 11s
+2022.11.14 09:35:11 INFO  time: evaluated worksheet 'collections.worksheet.sc' in 1.84s
+2022.11.14 10:01:19 INFO  time: evaluated worksheet 'addressbook.worksheet.sc' in 2.61s
+[33mwarning[39m: src/main/scala/org/epfl/03_addressbook/addressbook.worksheet.sc:78:1: 
+match may not be exhaustive.
+
+It would fail on pattern case: List(MdocApp.Contact(_, _, _, _), MdocApp.Contact(_, _, _, _), _, _*), List(MdocApp.Contact(_, _, _, _))
+
+addressBook.contacts match
+^^^^^^^^^^^^^^^^^^^^
+2022.11.14 10:03:51 INFO  time: evaluated worksheet 'addressbook.worksheet.sc' in 2.94s
+2022.11.14 10:19:05 INFO  time: evaluated worksheet 'addressbook.worksheet.sc' in 1.01s
+2022.11.14 10:31:11 INFO  time: evaluated worksheet 'option.worksheet.sc' in 2.26s
+2022.11.14 10:31:33 INFO  time: evaluated worksheet 'addressbook.worksheet.sc' in 0.86s
+2022.11.14 11:33:00 INFO  time: evaluated worksheet 'loops.worksheet.sc' in 2.01s
+2022.11.14 11:37:59 INFO  time: evaluated worksheet 'addressbook.worksheet.sc' in 0.8s
+2022.11.14 12:16:11 INFO  shutting down Metals
+2022.11.14 12:16:11 INFO  Shut down connection with build server.
+2022.11.14 12:16:11 INFO  Shut down connection with build server.

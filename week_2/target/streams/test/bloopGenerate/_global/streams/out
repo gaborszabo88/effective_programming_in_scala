@@ -1,0 +1,4 @@
+[debug] [week_2-test] Classpath dependencies List()
+[debug] [week_2-test] Dependencies from configurations List(week_2)
+[debug] Bloop wrote the configuration of project 'week_2-test' to '/home/gabor/git_repos/effective_programming_in_scala/week_2/.bloop/week_2-test.json'
+[success] Generated .bloop/week_2-test.json

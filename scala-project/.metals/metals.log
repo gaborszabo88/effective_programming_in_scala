@@ -1,0 +1,11 @@
+2022.11.09 21:34:18 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/gabor/git_repos/effective_programming_in_scala/scala-project/.metals/lsp.trace.json or /home/gabor/.cache/metals/lsp.trace.json
+2022.11.09 21:34:19 INFO  logging to file /home/gabor/git_repos/effective_programming_in_scala/scala-project/.metals/metals.log
+2022.11.09 21:34:19 INFO  Started: Metals version 0.11.9 in workspace '/home/gabor/git_repos/effective_programming_in_scala/scala-project' for client Visual Studio Code 1.71.2.
+2022.11.09 21:34:20 INFO  time: initialize in 1.32s
+2022.11.09 21:34:22 WARN  Build server is not auto-connectable.
+2022.11.09 21:34:25 INFO  no build target found for /home/gabor/git_repos/effective_programming_in_scala/scala-project/src/main/scala/example/example.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.0
+2022.11.09 21:34:27 INFO  time: code lens generation in 5.68s
+2022.11.09 21:34:27 INFO  time: code lens generation in 2.41s
+2022.11.09 21:34:30 INFO  no build target found for /home/gabor/git_repos/effective_programming_in_scala/scala-project/src/main/scala/example/example.worksheet.sc. Using presentation compiler with project's scala-library version: 3.2.0
+2022.11.09 21:34:30 INFO  time: evaluated worksheet 'example.worksheet.sc' in 8.06s
+2022.11.09 21:52:16 INFO  shutting down Metals
